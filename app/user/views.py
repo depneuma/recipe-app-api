@@ -1,5 +1,5 @@
 """
-Views  fpr tje iser Api.
+Views  fpr the User Api.
 """
 from rest_framework import generics, authentication, permissions
 from rest_framework.authtoken.views import ObtainAuthToken
